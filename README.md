@@ -5,3 +5,4 @@
 
 - [个人收藏的网站](https://github.com/xiaox/blog/issues/1)
 - [简单Android缓存代理的实现(1)](https://github.com/xiaox/blog/issues/2)
+- [简单Android缓存代理的实现(2)](https://github.com/xiaox/blog/issues/3)
